@@ -1,5 +1,11 @@
 # AvlTree in c++
-implementation of avl tree structure in c++
+implementation of avl tree structure in c++.
+
+Functions:
+1. search
+2. insertion
+3. deletion
+4. tree traversals (inorder, preorder and postorder)
 
 Important:
 1. the largest value in the left branch is used to swap with the deleting node when calling the remove function.
